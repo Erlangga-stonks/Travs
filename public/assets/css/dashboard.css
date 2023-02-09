@@ -1,0 +1,15 @@
+.dashboard {
+    margin-top: 2.5rem;
+}
+
+#value {
+    word-break: break-all;
+}
+
+.cut-text {
+    text-overflow: ellipsis;
+    overflow: hidden;
+    max-width: 400px;
+    height: 1.2em;
+    white-space: nowrap;
+}
