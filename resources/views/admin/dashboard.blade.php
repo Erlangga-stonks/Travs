@@ -19,7 +19,7 @@
                                 <polyline points="3.27 6.96 12 12.01 20.73 6.96"></polyline>
                                 <line x1="12" y1="22.08" x2="12" y2="12"></line>
                             </svg>
-                            <p class="card-text mt-10">Beauty Product</p>
+                            <p class="card-text mt-10">Konser Ticket</p>
                         </div>
                     </a>
                 </div>
@@ -38,7 +38,7 @@
                                 <polyline points="3.27 6.96 12 12.01 20.73 6.96"></polyline>
                                 <line x1="12" y1="22.08" x2="12" y2="12"></line>
                             </svg>
-                            <p class="card-text mt-10">Clothes Product</p>
+                            <p class="card-text mt-10">Wisata Ticket</p>
                         </div>
                     </a>
                 </div>
@@ -57,7 +57,7 @@
                                 <polyline points="3.27 6.96 12 12.01 20.73 6.96"></polyline>
                                 <line x1="12" y1="22.08" x2="12" y2="12"></line>
                             </svg>
-                            <p class="card-text mt-10">Electronics Product</p>
+                            <p class="card-text mt-10">Gunung Ticket</p>
                         </div>
                     </a>
                 </div>
