@@ -28,201 +28,135 @@ class ProductSeeder extends Seeder
         ]);
 
         Product::create([
-            'name' => 'Scarlett Whitening 7X Ceramide Moisturizer',
-            'description' => ' Manfaat :
-
-- Membantu menjaga kelembapan pada kulit
-
-- Membantu merawat skin barrier
-
-- Membantu merawat kulit agar tetap halus dan lembut
-
-- Membantu mencerahkan kulit dan merawat warna kulit',
+            'name' => 'Westlife Concert 2023',
+            'description' => ' Grup vokal dengan penjualan album terlaris di Inggris pada abad ke-21, Westlife, akan datang ke Indonesia untuk “Their biggest ever stadium show in Indonesia 2023”. Konser bertajuk Westlife The Wild Dreams Tour 2023 Jakarta yang dipromotori oleh PK Entertainment dan Sound Rhythm ini akan mengguncang Stadion Madya Gelora Bung Karno Jakarta pada Sabtu, 11 Februari 2023. Semua tiket untuk pertunjukan konser Westlife The Wild Dreams Tour 2023 Jakarta telah habis terjual dengan cepat. Dengan begitu, banyak penggemar Westlife yang masih mencari tiket untuk konser Westlife terbesar yang berskala stadion di Indonesia pada Februari tahun depan. Melalui konfirmasi dari pihak manajemen Westlife, pihak penyelenggara PK Entertainment & Sound Rhythm baru saja mendapat informasi karena permintaan yang sangat tinggi dari para penggemar Westlife di Indonesia dan jadwal tur Westlife telah padat sehingga manajemen harus mencari tanggal yang masih memungkinkan untuk mengadakan show tambahan yang akan dilakukan di luar daerah Ibukota Jakarta atau skala Regional Show.',
             'type_id' => 1,
-            'price' => 20000,
-            'quantity' => 20,
-            'picture' => 'images/Beauty/product-1.png'
+            'price' => 2370047,
+            'quantity' => 100,
+            'picture' => 'images/Konser/Westlife Concert 2023.png'
         ]);
 
         Product::create([
-            'name' => 'FLASH SALE! Maybelline Super Stay Matte Ink Lipcream SuperStay Lip Cream stay ink Lipstik Original',
-            'description' => 'Super Stay Matte Ink ini adalah liquid lipstick matte yang dikombinasikan dengan ink formula dan menghasilkan warna-warna lipstick yang unik dan juga intens. ',
+            'name' => 'BlackPink Concert 2023',
+            'description' => 'BLACKPINK IN YOUR AREAAA~
+             Grup K-pop legendaris, BLACKPINK akan datang kembali ke Jakarta untuk mempromosikan album terbaru mereka, BORN PINK melalui tur dunia mereka yang bertajuk, BLACKPINK WORLD TOUR [BORN PINK] JAKARTA pada tanggal 11 & 12 Maret 2023 di Stadion Utama Gelora Bung Karno, Jakarta!
+             Grup beranggotakan empat orang ini akan menyapa BLINK Indonesia selama dua hari! Jadi, BLINKS, persiapkan dirimu untuk menari dan menyanyi bersama lagu-lagu hits mereka mulai dari Pink Venom, DDU-DU DDU-DU, Shut Down, BOOMBAYAH, dan masih banyak lagi!
+            Segera beli tiket konser BLACKPINK ',
             'type_id' => 1,
-            'price' => 20000,
-            'quantity' => 40,
-            'picture' => 'images/Beauty/product-2.png'
+            'price' => 2679500,
+            'quantity' => 100,
+            'picture' => 'images/Konser/BlackPink 2023.jpg'
         ]);
         Product::create([
-            'name' => 'FLASH SALE! Maybelline Super Stay Matte Ink Lipcream SuperStay Lip Cream stay ink Lipstik Original',
-            'description' => 'Super Stay Matte Ink ini adalah liquid lipstick matte yang dikombinasikan dengan ink formula dan menghasilkan warna-warna lipstick yang unik dan juga intens. ',
+            'name' => 'Ever Blast Concert 2023',
+            'description' => 'Everblast Festival merupakan jadwal konser musik tahun 2023 yang tidak boleh kamu lupakan. Soalnya, acara ini bertaburan musisi lokal dan internasional, seperti Simple Plan, Hoobastank, Padi Reborn, sampai J-Rocks. Konsernya diadakan pada tanggal 4-5 Maret 2023 di Gambir Expo Kemayoran, Jakarta. ',
             'type_id' => 1,
-            'price' => 20000,
-            'quantity' => 40,
-            'picture' => 'images/Beauty/product-2.png'
+            'price' => 1300000,
+            'quantity' => 100,
+            'picture' => 'images/Konser/Ever_Blast.jpg'
         ]);
 
         Product::create([
-            'name' => 'ROREC / HCHANA NATURAL SKIN CARE MASK MASKER SHEET & ROREC SNAIL MASK / MASK SHEET',
-            'description' => 'PERHATIAN:
-ROREC PACKAGING BARU MENJADI HCHANA HANYA BERUBAH LOGO
-ISI DAN KEMASAN & KHASIAT TETAP SAMA
-
-JADI BARANG AKAN DIKIRIM SESUAI STOK YG ADA
-
-MEMBELI = SETUJU
-
-Aloe vera :
-Melembabkan kulit
-Mencegah keriput
-Memutihkan kembali kulit yang terbakar matahari
-Kulit berjerawat
-Mengandung antioksidan
-Membuat wajah cerah Dan glowing',
+            'name' => 'Arctic Monkeys Concert 2023',
+            'description' => 'Pelantun lagu Do I Wanna Know? ini, akhirnya kembali lagi mengadakan konser di Asia, salah satunya Jakarta. Kalau ingin menonton, konsernya berlangsung pada 18 Maret 2023 di Beach International Stadium, Ancol. ',
             'type_id' => 1,
-            'price' => 20000,
+            'price' => 2832461,
             'quantity' => 125,
-            'picture' => 'images/Beauty/product-3.png'
+            'picture' => 'images/Konser/Arctic Monkeys.jpg'
         ]);
 
 
 
         Product::create([
-            'name' => 'M231 Kemeja Pria Koko Pendek Cream 2325A',
-            'description' => 'Material: Katun
+            'name' => 'Dufan Ancol Jakarta',
+            'description' => 'Mencari wahana bermain yang enggak jauh dari rumahmu? Yuk Lepas penatmu dengan bermain di Dunia Fantasi (Dufan) Ancol. Banyak wahana asyik yang ada di Dufan dan terbagi menjadi empat kategori, yakni Children Rides, Family Ride, Water Ride, dan Thrill Ride.
 
-
-
-Size pada Model:
-
-Pria: Tinggi 185-186 cm, Berat 75 kg, Menggunakan Ukuran L
-
-
-
-Size Chart:
-
-Lebar Dada (cm) x Panjang Kemeja (cm):
-
-S: 52 cm x 72,5 cm
-
-M: 54 cm x 75 cm
-
-L: 56 cm x 77,5 cm
-
-XL: 58 cm x 80 cm
-
-XXL: 60 cm x 81,5 cm ',
+            Di wahana Children Rides, anak-anak bisa bermain di atraksi Ontang-anting. Permainan ini akan membawa anak-anak beterbangan di udara dengan kursi yang mereka duduki. Selain itu, anak-anak juga bisa mengunjungi wahana lainnya, seperti Istana Boneka, Bianglala, Perang Bintang, dan lainnya.
+            
+            Buat kamu yang ingin memacu adrenalin, enggak ada salahnya mencoba wahana-wahana di Thrill Ride. Kamu bisa naik Roller Coaster untuk menikmati rasanya naik dan turun kereta dengan kecepatan tinggi sampai membuatmu berteriak. Wahana menantang lainnya yang bisa kamu coba adalah Halilintar, Hysteria, Tornado, dan Kicir-kicir.
+            
+            Jam kunjungan KHUSUS di Pantai sepanjang kawasan Symphony of The Sea:
+            
+            Kunjungan Sesi 1: 06.00-11.00 WIB
+            Kunjungan Sesi 2: 11.00-16.00 WIB
+            Kunjungan Sesi 3: 16.00-21.00 WIB
+            Pembatasan ini hanya berlaku di pantai sepanjang kawasan Symphony of The Sea sesuai tiket masuk pantai yang kamu pilih. Di luar jam kunjungan, kamu tetap dapat melakukan rekreasi sesuai jam operasional di Dunia Fantasi, Seaworld Ancol, Ocean Dream Samudra, Faunaland, Gondola, Allianz Ecopark, Pasar Seni, Pantai Indah, Pantai Festival, dan Restoran. ',
             'type_id' => 2,
-            'price' => 22500,
-            'quantity' => 70,
-            'picture' => 'images/Clothes/product-6.png'
+            'price' => 189500,
+            'quantity' => 100,
+            'picture' => 'images/Wisata/dufan.jpg'
         ]);
 
         Product::create([
-            'name' => 'M231 Celana Cargo Adjustable Formal Function Hijau C1174B',
-            'description' => 'Material: Katun Baby Canvas
-
-
-
-Size pada Model:
-
-Pria: Tinggi 185-186 cm, Berat 75 kg, Menggunakan Ukuran L
-
-
-
-Size Chart: 
-
-Lingkar Pinggang (cm) x Panjang Celana (cm) :
-
-S : 68 cm x 100 cm
-
-M : 70 cm x 100 cm
-
-L : 74 cm x 100 cm
-
-XL : 80 cm x 103 cm
-
-XXL : 84 cm x 103 cm',
+            'name' => 'Trans Studio Bandung',
+            'description' => 'Tempat wisata di Indonesia memang beragam dan tidak ada habisnya untuk dinikmati. Salah satu provinsi favorit para pelancong adalah Jawa Barat. Lokasinya yang dekat dengan Jakarta membuat Jawa Barat selalu ramai di akhir pekan. Tempat wisata di Jawa Barat memang sebagian besar menyuguhkan keindahan alam yang menakjubkan.',
             'type_id' => 2,
-            'price' => 10900,
+            'price' => 166250,
             'quantity' => 50,
-            'picture' => 'images/Clothes/product-7.png'
+            'picture' => 'images/Wisata/TransStudio Bandung.jpg'
         ]);
 
         Product::create([
-            'name' => 'Koko MAKHI bayya muslimin koko kurta pakistan original premium dengan bahan sigaret super premium',
-            'description' => 'Koko Pakistan Kurta Qurta Dewasa Katun sigaret Terbaru MAKHI BAYYA -  PROMO Flash Sale COD Bayar di Tempat Baju Koko Pakistan KURTA premium  Pria Dewasa Katun Import. COD (Cash On Delivery) Bisa Bayar di Tempat Harga GROSIR Inbox ya! ',
+            'name' => 'Universal Singapore',
+            'description' => 'Ajak keluargamu untuk senang-senang di Universal Studios Singapore! Jelajahi beragam atraksi asyik di beberapa zona tematik mulai dari Hollywood, New York, hingga Mesir Kuno.
+
+            Tantang adrenalinemu dengan naik roller coaster yang mendebarkan atau kejar-kejaran dengan T-Rex di The Lost World.
+            
+            Untuk kamu penggemar film, lihat beberapa karakter film Hollywood. Siapkan kameramu dan foto-foto ya!    ',
             'type_id' => 2,
-            'price' => 20000,
-            'quantity' => 30,
-            'picture' => 'images/Clothes/product-8.png'
+            'price' => 710331,
+            'quantity' => 100,
+            'picture' => 'images/Wisata/Universal Singapore.jpg'
         ]);
         Product::create([
-            'name' => 'Koko MAKHI bayya muslimin koko kurta pakistan original premium dengan bahan sigaret super premium',
-            'description' => 'Koko Pakistan Kurta Qurta Dewasa Katun sigaret Terbaru MAKHI BAYYA -  PROMO Flash Sale COD Bayar di Tempat Baju Koko Pakistan KURTA premium  Pria Dewasa Katun Import. COD (Cash On Delivery) Bisa Bayar di Tempat Harga GROSIR Inbox ya! ',
+            'name' => 'Disney Land Japan',
+            'description' => 'Sering dicap sebagai tempat paling menyenangkan di muka Bumi, Tokyo Disneyland adalah taman bermain tematik yang cocok dikunjungi bareng keluarga dan sahabat! Kamu akan melihat dan berinteraksi dengan karakter-karakter familiar dari Disney, seperti Mickey Mouse, Donald Duck, Cinderella, dan lainnya! Gak cuma itu aja, kamu juga bisa menaiki berbagai macam wahana yang seru, seperti Jungle Cruise, Splash Mountain, dan Pirates of the Caribbean! Jangan lupa untuk menyaksikan parade Dreaming Up! serta pertunjukan kembang api di Disney Light the Night yang akan membuatmu berdecak kagum.',
             'type_id' => 2,
-            'price' => 20000,
-            'quantity' => 30,
-            'picture' => 'images/Clothes/product-8.png'
+            'price' => 1024900,
+            'quantity' => 100,
+            'picture' => 'images/Wisata/Disney Land Japan.jpg'
         ]);
 
+        //Gunung
+
         Product::create([
-            'name' => 'Lenovo GM2 Pro Gaming Wireless Bluetooth low-latency Earphone TWS Headset Hoise-cancelling HD Calling Long Battery Life',
-            'description' => 'itur:
-1. Mode permainan, latensi sangat rendah, game seluler yang mulus.
-
-2. Kualitas suara HIFI, analisis kualitas suara resolusi tinggi, mengubah ritme musik.
-
-3. Kompartemen pengisian berkapasitas besar, pengisian Tipe-C lebih nyaman.
-
-4. Mikrofon sensitivitas tinggi di kedua sisi, panggilan definisi tinggi, panggilan lebih jelas.
-
-5. Penekanan kebisingan panggilan ENC secara efektif menekan kebisingan lingkungan.
-
-6. Ini dapat dihubungkan segera setelah membuka penutup, telinga tunggal dan ganda dapat digunakan secara independen, dan dapat diaktifkan secara bebas terlepas dari master dan slave.',
+            'name' => 'Paket Mendaki Gunung Agung (Private Tour)',
+            'description' => 'Ringkasan
+            Melihat matahari terbit dari ketinggian Gunung berapi aktif di Bali
+            Nikmati pengalaman pendakian dengan pemandu yang profesional
+            Terdapat dua pilihan rute untuk pendakian yang bisa dipilih
+            Layanan private tour peserta tidak digabung dengan grup lain',
             'type_id' => 3,
-            'price' => 20000,
-            'quantity' => 120,
-            'picture' => 'images/Electronics/product-9.png'
+            'price' => 900000,
+            'quantity' => 10,
+            'picture' => 'images/Gunung/Gunung Agung.png'
         ]);
         Product::create([
-            'name' => 'Lenovo GM2 Pro Gaming Wireless Bluetooth low-latency Earphone TWS Headset Hoise-cancelling HD Calling Long Battery Life',
-            'description' => 'itur:
-1. Mode permainan, latensi sangat rendah, game seluler yang mulus.
-
-2. Kualitas suara HIFI, analisis kualitas suara resolusi tinggi, mengubah ritme musik.
-
-3. Kompartemen pengisian berkapasitas besar, pengisian Tipe-C lebih nyaman.
-
-4. Mikrofon sensitivitas tinggi di kedua sisi, panggilan definisi tinggi, panggilan lebih jelas.
-
-5. Penekanan kebisingan panggilan ENC secara efektif menekan kebisingan lingkungan.
-
-6. Ini dapat dihubungkan segera setelah membuka penutup, telinga tunggal dan ganda dapat digunakan secara independen, dan dapat diaktifkan secara bebas terlepas dari master dan slave.',
+            'name' => 'PAKET TREKKING RINJANI 3 HARI 2 MALAM VIA SEMBALUN',
+            'description' => 'Selama 3 hari 2 malam dimana satu malam diantaranya anda akan menginap di salah satu penginapan di Desa Sembalun, barulah keesokan harinya anda akan melakukan trekking di Gunung Rinjani melalui jalur Sembalun dan turunnya pun kembali lagi melaului jalur yang sama.',
             'type_id' => 3,
-            'price' => 20000,
-            'quantity' => 120,
-            'picture' => 'images/Electronics/product-9.png'
+            'price' => 1780000,
+            'quantity' => 10,
+            'picture' => 'images/Gunung/Gunung_Sembalun_Lombok.jpg'
         ]);
         Product::create([
-            'name' => 'Lenovo thinkplus XT93 True Wireless Bluetooth Earphone Mini Earbuds TWS',
-            'description' => 'Vallina Outfit saat ini merupakan salah satu lini outfit muslim terbaik dan berkualitas tinggi di antara Local Brand Indonesia. 
-
-            Bahan: Fleece 
-            Ukuran: One Size Fit L 
-            LD: 102 cm (-+)
-            Kualitas Premium',
+            'name' => 'Oneasia Mount Pinang Panoramic Tour Package By OneAsia Tours Indonesia',
+            'description' => 'Melihat pemandangan saat trekking menuju Gunung Pinang.
+            Menikmati suasana sore hari dan foto-foto di Karang Balong.
+            Mengunjungi Anyer Mercusuar dan belanja di Anyer.
+            Cocok untuk: Sang Petualang dan Geng Asyik.',
             'type_id' => 3,
-            'price' => 90000,
-            'quantity' => 30,
-            'picture' => 'images/Electronics/product-10.png'
+            'price' => 3646500,
+            'quantity' => 15,
+            'picture' => 'images/Gunung/Gunung Pinang.png'
         ]);
         Product::create([
-            'name' => 'Lenovo thinkplus XT93 True Wireless Bluetooth Earphone Mini Earbuds TWS',
-            'description' => 'Thinkplus Lenovo xt93 True Wireless Bluetooth Earphone Mini Earbuds TWS Stereo',
+            'name' => 'Mount Kerinci - Gunung Tujuh',
+            'description' => 'The 5 days Climb Mount Kerinci include visit Lake Gunung Tujuh –  a lost world hidden in the clouds,  after summit Mount Kerinci.  Lake Gunung Tujuh (1,996 m asl)  has a breathtaking and mysterious panoramic non-active watered crater of 1,000 hectares surrounded by the 7 peaks and pristine rain forest with abundant wildlife. It is the highest altitude fresh Water Lake in South East Asia.',
             'type_id' => 3,
-            'price' => 90000,
-            'quantity' => 30,
-            'picture' => 'images/Electronics/product-11.png'
+            'price' => 2100000,
+            'quantity' => 10,
+            'picture' => 'images/Gunung/Gunung_Kerinci_dari_Muaralabuh.jpg'
         ]);
     }
 }
